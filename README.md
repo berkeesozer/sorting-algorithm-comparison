@@ -1,6 +1,6 @@
 # Comparison-of-Heapsort-Shellsort-and-Introsort
 
-This study offers runtime analysis of different sorting algorithms called Heapsort,shellsort and introsort.
+This study offers runtime analysis of different sorting algorithms called heapsort, shellsort and introsort.
 
 ![1](https://user-images.githubusercontent.com/95179775/162739271-c73a2635-3664-4f68-a60e-3c871cccda7a.JPG)
 ![2 PG](https://user-images.githubusercontent.com/95179775/162739276-bd80fa00-8dda-4570-8f6f-41e8d57f84c9.JPG)
